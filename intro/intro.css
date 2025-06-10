@@ -1,0 +1,16 @@
+.Porta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin: 3rem;
+    text-align: center;
+}
+.Porta h1 {
+    font-size: 3.5rem;
+}
+.Porta p{
+    width: 32rem;
+    height: auto;
+}
