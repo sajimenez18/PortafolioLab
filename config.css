@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    /* Variables de fuentes */
+    --font-heading: 'Montserrat', sans-serif;  /* Para títulos y logo */
+    --font-body: 'Inter', sans-serif;         /* Para texto normal */
+}
+body {
+    font-family: (--font-body);
+    font-size: 14px;
+    line-height: 1.6;
+}

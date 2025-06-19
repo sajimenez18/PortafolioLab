@@ -1,0 +1,28 @@
+/* ===== Tablet (768px+) ===== */
+@media (min-width: 768px) {
+    .menu-mobile {
+        display: none; /* Ocultar ícono de menú */
+    }
+
+    .nav {
+        display: flex;
+        gap: var(--space-sm);
+    }
+
+    .filters {
+        justify-content: center;
+        overflow-x: visible;
+    }
+}
+
+/* ===== Desktop (1024px+) ===== */
+@media (min-width: 1024px) {
+    .header, .hero {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .hero {
+        text-align: left;
+    }
+}

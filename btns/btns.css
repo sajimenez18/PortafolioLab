@@ -1,0 +1,53 @@
+.btns {
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+a {
+    color: #391400;
+    text-decoration: none;
+}
+.num {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -15rem;
+    color: #391400;
+}
+.num1 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -6rem;
+    color: #391400;
+}
+.num2 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -10px;
+    margin-right: -5.5rem;
+    color: #391400;
+}
+.num3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -10px;
+    margin-right: -18rem;
+    color: #391400;
+}
+.num4 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -10px;
+    margin-right: -28rem;
+    color: #391400;
+}
